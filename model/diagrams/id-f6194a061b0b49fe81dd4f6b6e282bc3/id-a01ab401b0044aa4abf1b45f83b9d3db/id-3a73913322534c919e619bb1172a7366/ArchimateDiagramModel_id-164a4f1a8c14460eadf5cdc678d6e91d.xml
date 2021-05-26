@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01.04.01 Ohjaavat lait ja säädökset"
+    id="id-164a4f1a8c14460eadf5cdc678d6e91d"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8fe278528fe7430e9a0a92fa7f8f26a0"
+      textAlignment="1"
+      content="Malli: &lt;yksikön lyhenne> &lt;kehityskohde> - Ohjaavat lait ja säädökset - &lt;kehityskohteen tarkenne>&#xD;&#xA;Omistaja(t): &lt;etunimi sukunimi>&#xD;&#xA;Mallintaja: &lt;etunimi sukunimi>, &lt;yrityksen nimi>&#xD;&#xA;Muokkauspäivämäärä: pp.kk.vvvv&#xD;&#xA;&#xD;&#xA;Mallin tila: LUONNOS&#xD;&#xA;Hyväksyjä(t): &lt;etunimi sukunimi>&#xD;&#xA;Hyväksytty: pp.kk.vvvv">
+    <bounds
+        x="12"
+        y="12"
+        width="649"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

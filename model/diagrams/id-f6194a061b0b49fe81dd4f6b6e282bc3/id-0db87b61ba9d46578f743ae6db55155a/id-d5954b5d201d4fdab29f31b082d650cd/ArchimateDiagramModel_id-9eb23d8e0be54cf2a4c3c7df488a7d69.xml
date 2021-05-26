@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05.03.01 Looginen alustajäsennys"
+    id="id-9eb23d8e0be54cf2a4c3c7df488a7d69">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9a6893a3d25848b099c03f870dea8bf8"
+      textAlignment="1"
+      content="Malli: &lt;yksikön lyhenne> &lt;kehityskohde> - Looginen alustajäsennys - &lt;kehityskohteen tarkenne>&#xD;&#xA;Omistaja(t): &lt;etunimi sukunimi>&#xD;&#xA;Mallintaja: &lt;etunimi sukunimi>, &lt;yrityksen nimi>&#xD;&#xA;Muokkauspäivämäärä: pp.kk.vvvv&#xD;&#xA;&#xD;&#xA;Mallin tila: LUONNOS&#xD;&#xA;Hyväksyjä(t): &lt;etunimi sukunimi>&#xD;&#xA;Hyväksytty: pp.kk.vvvv">
+    <bounds
+        x="12"
+        y="12"
+        width="649"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

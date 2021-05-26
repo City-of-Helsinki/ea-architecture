@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04.02.03 Tietojärjestelmäkartta - Avustusasiointi"
+    id="id-902bf08189254ebbb8388a49c7326daf">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ac11d88b063245cf88ef1e457759f1c4"
+      textAlignment="1"
+      content="Malli: KANSLIA TATAKA - Tietojärjestelmäkartta - Avustusasiointi&#xD;&#xA;Omistaja(t): Mika Leivo, Taina Nurmela&#xD;&#xA;Mallintaja: Pontus Hellman, Capgemini&#xD;&#xA;Muokkauspäivämäärä: 9.3.2021 v1&#xD;&#xA;&#xD;&#xA;Mallin tila: LUONNOS&#xD;&#xA;Hyväksyjä(t): &lt;etunimi sukunimi>&#xD;&#xA;Hyväksytty: pp.kk.vvvv">
+    <bounds
+        x="12"
+        y="22"
+        width="433"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05.01.00 Teknologiapalvelu (Pohja)"
+    id="id-5aaf33290bd943fe963871b415c6fc28">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b0270a8f540a4d1284c9f92dcaf0dfd6"
+      textAlignment="1"
+      content="Malli: &lt;yksikön lyhenne> &lt;kehityskohde> - Teknologiapalvelu - &lt;kehityskohteen tarkenne>&#xD;&#xA;Omistaja(t): &lt;etunimi sukunimi>&#xD;&#xA;Mallintaja: &lt;etunimi sukunimi>, &lt;yrityksen nimi>&#xD;&#xA;Muokkauspäivämäärä: pp.kk.vvvv&#xD;&#xA;&#xD;&#xA;Mallin tila: LUONNOS&#xD;&#xA;Hyväksyjä(t): &lt;etunimi sukunimi>&#xD;&#xA;Hyväksytty: pp.kk.vvvv">
+    <bounds
+        x="12"
+        y="12"
+        width="649"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

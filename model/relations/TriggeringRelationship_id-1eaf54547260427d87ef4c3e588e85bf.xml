@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maksullinen palvelu"
+    id="id-1eaf54547260427d87ef4c3e588e85bf">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-c41b8c623f9d47329813c96545dd8fe5.xml#id-c41b8c623f9d47329813c96545dd8fe5"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2f6380d1ef4944639a0f14a51f580376.xml#id-2f6380d1ef4944639a0f14a51f580376"/>
+</archimate:TriggeringRelationship>

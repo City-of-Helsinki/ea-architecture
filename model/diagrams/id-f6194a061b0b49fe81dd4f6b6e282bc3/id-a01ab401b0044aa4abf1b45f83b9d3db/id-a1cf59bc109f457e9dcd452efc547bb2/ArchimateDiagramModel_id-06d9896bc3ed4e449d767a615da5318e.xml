@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01.10.01 Kyvykkyyskartta"
+    id="id-06d9896bc3ed4e449d767a615da5318e"
+    viewpoint="capability">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cddd8a4b44d44ec4b000a7cb0d853d63"
+      textAlignment="1"
+      content="Malli: &lt;yksikön lyhenne> &lt;kehityskohde> - Kyvykkyyskartta - &lt;kehityskohteen tarkenne>&#xD;&#xA;Omistaja(t): &lt;etunimi sukunimi>&#xD;&#xA;Mallintaja: &lt;etunimi sukunimi>, &lt;yrityksen nimi>&#xD;&#xA;Muokkauspäivämäärä: pp.kk.vvvv&#xD;&#xA;&#xD;&#xA;Mallin tila: LUONNOS&#xD;&#xA;Hyväksyjä(t): &lt;etunimi sukunimi>&#xD;&#xA;Hyväksytty: pp.kk.vvvv">
+    <bounds
+        x="12"
+        y="12"
+        width="649"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

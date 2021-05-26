@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="edustaa rajapintaa  AhjoRestApi"
+    id="id-3a8da2095679468baeef128f0943b8fa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8c67855e81bd45929b07753c82c6c3bd.xml#id-8c67855e81bd45929b07753c82c6c3bd"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-ea127be007214693a5d707fa67dd3411.xml#id-ea127be007214693a5d707fa67dd3411"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure AD"
+    id="id-5b5244b5defc451889ce789dac712c68"
+    documentation="wikipedia : Azure Active Directory (Azure AD) is Microsoft's enterprise cloud-based identity and access management (IAM) solution. Azure AD is the backbone of the Office 365 system, and it can sync with on-premise Active Directory and provide authentication to other cloud-based systems via OAuth&#xD;&#xA;"/>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04.03.01 Tietojärjestemien välinen vuorovaikutus"
+    id="id-1d3e823dd6a142f8b0452b055aaf0931"
+    viewpoint="layered">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3207cd91d6c7439e9585423a2973dd49"
+      textAlignment="1"
+      content="Malli: &lt;yksikön lyhenne> &lt;kehityskohde> - Tietojärjestemien välinen vuorovaikutus - &lt;tarkenne>&#xD;&#xA;Omistaja(t): &lt;etunimi sukunimi>&#xD;&#xA;Mallintaja: &lt;etunimi sukunimi>, &lt;yrityksen nimi>&#xD;&#xA;Muokkauspäivämäärä: pp.kk.vvvv&#xD;&#xA;&#xD;&#xA;Mallin tila: LUONNOS&#xD;&#xA;Hyväksyjä(t): &lt;etunimi sukunimi>&#xD;&#xA;Hyväksytty: pp.kk.vvvv">
+    <bounds
+        x="22"
+        y="22"
+        width="649"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

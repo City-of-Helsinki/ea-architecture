@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Database for MySQL"
+    id="id-e6a0950366d04133a20c7b242bb6e703"
+    documentation="Azure Database for MySQL is a fully managed database service, which means that Microsoft automates the management and maintenance of your infrastructure and database server, including routine updates, backups, and security."/>

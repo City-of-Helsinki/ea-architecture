@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Cache for Redis"
+    id="id-b2fbb1ca09364cafa8142751c95017bb"
+    documentation="Wikipedia: Azure Cache for Redis provides an in-memory data store based on the Redis software. Redis improves the performance and scalability of an application that uses on backend data stores heavily. ... Azure Cache for Redis can be used as a distributed data or content cache, a session store, a message broker, and more"/>

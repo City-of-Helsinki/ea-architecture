@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elasticsearch"
+    id="id-5729031173f447f09c26eafceee5fe32"
+    documentation="wikipedia Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.&#xD;&#xA;Käytetään ainakin Hel.fi yhteydessä"/>

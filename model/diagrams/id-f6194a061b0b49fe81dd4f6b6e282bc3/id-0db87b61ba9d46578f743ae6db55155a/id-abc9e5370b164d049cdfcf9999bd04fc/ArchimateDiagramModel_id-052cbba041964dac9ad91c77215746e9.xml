@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05.04.01 Looginen verkkokaavio"
+    id="id-052cbba041964dac9ad91c77215746e9">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-496d4cd82bba4f2eb900e424711a1e54"
+      textAlignment="1"
+      content="Malli: &lt;yksikön lyhenne> &lt;kehityskohde> - Looginen verkkokaavio - &lt;kehityskohteen tarkenne>&#xD;&#xA;Omistaja(t): &lt;etunimi sukunimi>&#xD;&#xA;Mallintaja: &lt;etunimi sukunimi>, &lt;yrityksen nimi>&#xD;&#xA;Muokkauspäivämäärä: pp.kk.vvvv&#xD;&#xA;&#xD;&#xA;Mallin tila: LUONNOS&#xD;&#xA;Hyväksyjä(t): &lt;etunimi sukunimi>&#xD;&#xA;Hyväksytty: pp.kk.vvvv">
+    <bounds
+        x="12"
+        y="12"
+        width="649"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

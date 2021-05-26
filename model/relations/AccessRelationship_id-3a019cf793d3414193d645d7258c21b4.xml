@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UI/UX"
+    id="id-3a019cf793d3414193d645d7258c21b4">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-ea127be007214693a5d707fa67dd3411.xml#id-ea127be007214693a5d707fa67dd3411"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-0b4668d51ca342339d71745829d5fbf8.xml#id-0b4668d51ca342339d71745829d5fbf8"/>
+</archimate:AccessRelationship>
