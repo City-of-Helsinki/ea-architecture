@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-7bd8efd0893d4d6abc59249db6a843cf"
-      name="Kaupunkiyhteiset ratkaisut"
+      name="Kaupunkiyhteiset ratkaisukomponentit"
       textAlignment="1">
     <bounds
         x="289"
@@ -1322,7 +1322,7 @@
             xsi:type="archimate:DiagramModelNote"
             id="id-d6244529b082479a8deeae137aa5a9b8"
             fillColor="#ffff80"
-            content="VeBS:&#xD;&#xA;Clamav"
+            content="VeBS:&#xD;&#xA;ClamAV"
             textPosition="1">
           <bounds
               x="36"
@@ -2026,7 +2026,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-f266f93b68a2431aa9377be99bc69b60"
-      name="Asiointipalvelut"
+      name="Sähköiset asiointipalvelut"
       textAlignment="1">
     <bounds
         x="288"
