@@ -208,7 +208,7 @@
       type="1">
     <bounds
         x="732"
-        y="648"
+        y="719"
         width="181"
         height="72"/>
     <children
@@ -546,7 +546,7 @@
       type="1">
     <bounds
         x="1356"
-        y="480"
+        y="611"
         width="181"
         height="72"/>
     <children
@@ -570,7 +570,7 @@
       type="1">
     <bounds
         x="1356"
-        y="564"
+        y="695"
         width="181"
         height="73"/>
     <children
@@ -675,7 +675,7 @@
         fillColor="#00ff00"
         content="TPR-perhe">
       <bounds
-          x="49"
+          x="60"
           y="36"
           width="73"
           height="25"/>
@@ -725,15 +725,15 @@
       id="id-aa8acaa0b7804ed49dfd9ddc9a3e6405"
       type="1">
     <bounds
-        x="1656"
-        y="527"
+        x="1572"
+        y="654"
         width="181"
         height="60"/>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="id-674f3f8698264d7e899c457795c33ebb"
         fillColor="#ffff80"
-        content="?"
+        content="X-Archive"
         textPosition="1">
       <bounds
           x="48"
@@ -841,23 +841,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0fc993e7824f47a08d5d5ef3ec3e287c">
-    <bounds
-        x="1640"
-        y="190"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-85ebbce98a864e56b7d651d28c36afde.xml#id-85ebbce98a864e56b7d651d28c36afde"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7cb8fc4e30b041fd9234d3ddf4ed4ade"
       type="1">
     <bounds
         x="732"
-        y="732"
+        y="803"
         width="182"
         height="73"/>
     <children
@@ -882,7 +870,7 @@
       type="1">
     <bounds
         x="731"
-        y="816"
+        y="887"
         width="183"
         height="72"/>
     <children
@@ -900,5 +888,112 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-54da2b72ce7246b49f098868693971fd.xml#id-54da2b72ce7246b49f098868693971fd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d43195cb8abc4133821b194962be87b5"
+      fillColor="#c0c0c0"
+      content="Keycloack"
+      textPosition="1">
+    <bounds
+        x="612"
+        y="395"
+        width="93"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-639db704bcac4da3a66f5378309cab9a"
+      fillColor="#c0c0c0"
+      content="Security context"
+      textPosition="1">
+    <bounds
+        x="612"
+        y="611"
+        width="133"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d9bb005ad0d14fddb475a0e0b802295c"
+      fillColor="#c0c0c0"
+      content="GraphQL"
+      textPosition="1">
+    <bounds
+        x="484"
+        y="527"
+        width="93"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fcb55224af3c48e89681d7800396668f"
+      fillColor="#c0c0c0"
+      content="- Asiakkaan ID&#xD;&#xA;- Palvelun ID&#xD;&#xA;- Palvelutapahtuman ID&#xD;&#xA;- Sisältöpaketti"
+      textPosition="1">
+    <bounds
+        x="1080"
+        y="550"
+        width="169"
+        height="75"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6870c1c9b0a1485a84e74d55a04c7040"
+      fillColor="#c0c0c0"
+      content="- Asiakkaan ID&#xD;&#xA;- Palvelun ID&#xD;&#xA;- Palvelutapahtuman ID&#xD;&#xA;- &quot;Sisältöpaketti&quot;&#xD;&#xA;- Asioinnin transaktiot"
+      textPosition="1">
+    <bounds
+        x="900"
+        y="611"
+        width="169"
+        height="87"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-57303be687bb4d95a3ce6ddd6f900aa2"
+      fillColor="#c0c0c0"
+      content="Audit trail"
+      textPosition="1">
+    <bounds
+        x="756"
+        y="611"
+        width="133"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d9caaa215cc140b7a08f4d6300da07c5"
+      fillColor="#c0c0c0"
+      content="Tekniset lokit&#xD;&#xA;- Graylog"
+      textPosition="1">
+    <bounds
+        x="756"
+        y="635"
+        width="133"
+        height="48"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a4b12c3bc0224180a02883074e2851e2">
+    <bounds
+        x="580"
+        y="120"
+        width="157"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-da103d066c7f4d31b8e8a99f98bea007"
+        fillColor="#fd84fd"
+        content="?">
+      <bounds
+          x="36"
+          y="36"
+          width="93"
+          height="24"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-12077245cfd947d895c1db1e4fd125d2.xml#id-12077245cfd947d895c1db1e4fd125d2"/>
   </children>
 </archimate:ArchimateDiagramModel>
