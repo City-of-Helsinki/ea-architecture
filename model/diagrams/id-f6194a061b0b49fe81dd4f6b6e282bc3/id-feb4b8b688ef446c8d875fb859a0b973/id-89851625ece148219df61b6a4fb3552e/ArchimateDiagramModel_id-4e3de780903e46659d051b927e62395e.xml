@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-7bd8efd0893d4d6abc59249db6a843cf"
-      name="Kaupunkiyhteiset ratkaisukomponentit"
+      name="Kaupunkiyhteiset sovelluskomponentit"
       textAlignment="1">
     <bounds
         x="289"
