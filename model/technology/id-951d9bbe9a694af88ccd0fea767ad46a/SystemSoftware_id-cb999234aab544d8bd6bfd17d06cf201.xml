@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nginx"
+    id="id-cb999234aab544d8bd6bfd17d06cf201"
+    documentation="Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.&#xD;&#xA;Käytetään ainakin Hel.fi yhteydessä, mutta tätä kirjottaessani en tiedä, &#xD;&#xA;mitä Nginx teknologiapalveluja käytetään."/>

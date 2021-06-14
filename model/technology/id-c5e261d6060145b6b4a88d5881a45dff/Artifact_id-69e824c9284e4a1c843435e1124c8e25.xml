@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Karttakomponentti"
+    id="id-69e824c9284e4a1c843435e1124c8e25"
+    documentation="Tässä karttakomponentit on kuvattu artifactina, vaikka todellisuudessa tämä lienee sovelluskomponentti tms.  &#xD;&#xA;Karttakomponentti hyödyntää/käyttää Geoserver-teknologiapalvelua.&#xD;&#xA;Karttakomponentteja on myös useita&#xD;&#xA;Karttakomponentit olisi syytä purkaa, ja kuvata seikkaperäisemmin."/>

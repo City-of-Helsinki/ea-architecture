@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tietoja puuttuu"
+    id="id-24128d91ce4f4463b2e015b50a0d9858">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b6aac824b8f847ebb57bfdf91b12e28c.xml#id-b6aac824b8f847ebb57bfdf91b12e28c"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-f7a4693baec14802a6faf5b4c5b3483c.xml#id-f7a4693baec14802a6faf5b4c5b3483c"/>
+</archimate:TriggeringRelationship>
