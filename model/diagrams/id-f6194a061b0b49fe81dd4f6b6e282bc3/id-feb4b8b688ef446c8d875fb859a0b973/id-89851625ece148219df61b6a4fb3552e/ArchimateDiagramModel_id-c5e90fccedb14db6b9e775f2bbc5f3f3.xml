@@ -26,75 +26,6 @@
         height="181"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-083692ffaa7d4535bbd5fe2ee04ee2fa"
-        targetConnections="id-158227da413947b09f4369303f719427"
-        fillColor="#ffffff">
-      <bounds
-          x="389"
-          y="36"
-          width="229"
-          height="133"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-f1656f8f2b1f479a9fdc9c74df75bba5"
-          targetConnections="id-3f14b538ccb54e03a0e837cfe601930e">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-158227da413947b09f4369303f719427"
-            source="id-f1656f8f2b1f479a9fdc9c74df75bba5"
-            target="id-083692ffaa7d4535bbd5fe2ee04ee2fa">
-          <archimateRelationship
-              xsi:type="archimate:ServingRelationship"
-              href="ServingRelationship_id-ac8f3aa0e3e6462bbffc653e0edc046c.xml#id-ac8f3aa0e3e6462bbffc653e0edc046c"/>
-        </sourceConnections>
-        <bounds
-            x="24"
-            y="24"
-            width="181"
-            height="97"/>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-0153eede88c44207a6ceb08144e93c99">
-          <sourceConnections
-              xsi:type="archimate:DiagramModelArchimateConnection"
-              id="id-3f14b538ccb54e03a0e837cfe601930e"
-              source="id-0153eede88c44207a6ceb08144e93c99"
-              target="id-f1656f8f2b1f479a9fdc9c74df75bba5">
-            <archimateRelationship
-                xsi:type="archimate:SpecializationRelationship"
-                href="SpecializationRelationship_id-ce37d84441be43fc82718b9bc5c373a3.xml#id-ce37d84441be43fc82718b9bc5c373a3"/>
-          </sourceConnections>
-          <bounds
-              x="12"
-              y="24"
-              width="157"
-              height="55"/>
-          <children
-              xsi:type="archimate:DiagramModelNote"
-              id="id-9f9f5224e66841b4b211fc686353380a"
-              fillColor="#ffff80"
-              content="VeBS: Liferay"
-              textPosition="1">
-            <bounds
-                x="12"
-                y="24"
-                width="134"
-                height="25"/>
-          </children>
-          <archimateElement
-              xsi:type="archimate:ApplicationService"
-              href="ApplicationService_id-bd37632f84fa46069629b5f4ebefd44c.xml#id-bd37632f84fa46069629b5f4ebefd44c"/>
-        </children>
-        <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-8e1974ca4d1c48cbbbd0cc5fc0686264.xml#id-8e1974ca4d1c48cbbbd0cc5fc0686264"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_id-a8245ee044854c52a0bbfbe3a25da3af.xml#id-a8245ee044854c52a0bbfbe3a25da3af"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-803134d98ba94809bd406c4b02d8da9a">
       <bounds
           x="156"
@@ -127,6 +58,30 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-034590b166c54401840257af0498ba50.xml#id-034590b166c54401840257af0498ba50"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0153eede88c44207a6ceb08144e93c99">
+      <bounds
+          x="528"
+          y="84"
+          width="157"
+          height="55"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-9f9f5224e66841b4b211fc686353380a"
+          fillColor="#ffff80"
+          content="VeBS: Liferay"
+          textPosition="1">
+        <bounds
+            x="12"
+            y="24"
+            width="134"
+            height="25"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-bd37632f84fa46069629b5f4ebefd44c.xml#id-bd37632f84fa46069629b5f4ebefd44c"/>
     </children>
   </children>
   <children
