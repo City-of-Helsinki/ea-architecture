@@ -1,5 +1,33 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EA Arkkitehtuurin koordinointi"
-    id="id-463791a3502441deb334374e065c6126"
-    version="4.6.0"/>
+    name="Kuvan arkkitehtuuria"
+    id="id-ea12c7b9ede84a8dae334d9752053744"
+    version="4.6.0">
+  <properties
+      key="Report:Model:Hide:Business"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Application"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Technology&amp;Physical"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Motivation"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Implementation&amp;Migration"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Other"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Relations"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Views"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:ViewNumbering"
+      value="true"/>
+</archimate:ArchimateModel>

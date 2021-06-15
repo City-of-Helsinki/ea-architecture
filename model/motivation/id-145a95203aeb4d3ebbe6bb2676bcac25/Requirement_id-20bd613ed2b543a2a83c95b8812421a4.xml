@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TestRequirementbyMane"
+    id="id-20bd613ed2b543a2a83c95b8812421a4"
+    documentation="Testing">
+  <properties
+      key="Report:View:Detailed"
+      value="123"/>
+</archimate:Requirement>
